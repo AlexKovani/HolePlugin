@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolePlugin", "HolePlugin.csproj", "{0FD1BC87-3C9C-4611-93D5-B7DD650CC606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD1BC87-3C9C-4611-93D5-B7DD650CC606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD1BC87-3C9C-4611-93D5-B7DD650CC606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD1BC87-3C9C-4611-93D5-B7DD650CC606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD1BC87-3C9C-4611-93D5-B7DD650CC606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFCF7AC1-DEC6-4C60-9CFF-688E5C2624BD}
+	EndGlobalSection
+EndGlobal
